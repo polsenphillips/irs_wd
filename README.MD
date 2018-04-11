@@ -1,1 +1,1 @@
-Still need to generate list of URLs.
+Scraping written determinations from the IRS website.
